@@ -1,10 +1,15 @@
 Package: myFunctions
 Type: Package
-Title: my functions
+Title: some functions used often in bioinformatics analysis
+Description: some functions used often, containing convertion fomat among different packages
 Version: 0.1.0
+Date: 2019-11-14
 Author: Feng Zhang
 Maintainer: Feng Zhang <297946506@qq.com>
-Description: some functions used often
+Depends:
+  Seurat,
+  monocle3
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
