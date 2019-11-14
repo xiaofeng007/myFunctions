@@ -7,7 +7,6 @@ Date: 2019-11-14
 Author: Feng Zhang
 Maintainer: Feng Zhang <297946506@qq.com>
 Depends:
-  Seurat,
   monocle3
 License: GPL-3
 Encoding: UTF-8
